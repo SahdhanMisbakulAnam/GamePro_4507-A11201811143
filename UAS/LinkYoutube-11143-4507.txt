@@ -6,7 +6,3 @@ Matkul	: Game Programing
 Link Youtube :
 
 https://youtu.be/4HicpCDmuxQ
-
-Link GitHub  :
-
-https://github.com/SahdhanMisbakulAnam/GamePro_4507-A11201811143/tree/main/UAS
